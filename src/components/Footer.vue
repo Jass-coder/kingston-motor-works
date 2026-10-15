@@ -14,7 +14,7 @@ const year = new Date().getFullYear()
 
       <div class="f-col">
         <span class="eyebrow">Contact</span>
-        <a href="tel:0450224747">0450 224 747</a>
+        <a href="tel:0455746249">0455 746 249</a>
         <a href="mailto:Victoria.kingstonmotorworks@gmail.com">Victoria.kingstonmotorworks@gmail.com</a>
       </div>
 
@@ -25,7 +25,7 @@ const year = new Date().getFullYear()
 
       <div class="f-col">
         <span class="eyebrow">Hours</span>
-        <p>Mon–Fri: 8:00am – 5:30pm<br />Sat: 8:00am – 1:00pm</p>
+        <p>Mon–Sat: 9:00am – 6:00pm<br />Sun: Closed</p>
       </div>
 
       <div class="f-col">
