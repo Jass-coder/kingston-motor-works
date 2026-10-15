@@ -19,7 +19,7 @@
           </div>
           <div>
             <dt class="eyebrow">Phone</dt>
-            <dd><a href="tel:0450224747">0450 224 747</a></dd>
+            <dd><a href="tel:0455746249">0455 746 249</a></dd>
           </div>
           <div>
             <dt class="eyebrow">Email</dt>
@@ -47,7 +47,7 @@
   <section class="cta-band">
     <div class="wrap">
       <h2>Your car, sorted properly.</h2>
-      <a href="tel:0450224747" class="btn-primary">Call 0450 224 747</a>
+      <a href="tel:0455746249" class="btn-primary">Call 0455 746 249</a>
     </div>
   </section>
 </template>
