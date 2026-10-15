@@ -28,8 +28,8 @@
         </dl>
 
         <div class="hours-table">
-          <div><span>Monday – Friday</span><span>8:00am – 5:30pm</span></div>
-          <div><span>Saturday</span><span>8:00am – 1:00pm</span></div>
+          <div><span>Monday – Friday</span><span>9:00am – 6:00pm</span></div>
+          <div><span>Saturday</span><span>9:00am – 6:00pm</span></div>
           <div><span>Sunday</span><span>Closed</span></div>
         </div>
       </div>
