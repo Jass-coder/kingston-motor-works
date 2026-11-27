@@ -42,7 +42,7 @@ const services = [
     <div class="wrap">
       <h2>Not sure what your car needs?</h2>
       <p>Call the workshop and we'll talk you through it before anything is booked in.</p>
-      <a href="tel:0455746249" class="btn-primary">Call 0455 746 249</a>
+      <a href="tel:0450224247" class="btn-primary">Call 0450 224 247</a>
     </div>
   </section>
 </template>
